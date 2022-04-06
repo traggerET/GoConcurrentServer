@@ -4,6 +4,7 @@ import (
 	"flag"
 )
 
+
 type Server struct {
 	port    string
 	logfile string
